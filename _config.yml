@@ -1,0 +1,28 @@
+name: Full Store
+favicon: null
+layout_spectrum: 0.33224101713858545
+typography_spectrum: 0.9377598857972771
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7701390227302909
+  lightness: 0.780121190007776
+  saturation: 0.36300943209789693
+  rhythmicContrast: 0.43697349540889263
+purpose: []
